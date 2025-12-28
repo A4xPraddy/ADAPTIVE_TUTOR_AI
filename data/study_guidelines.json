@@ -1,0 +1,45 @@
+{
+  "python": {
+    "theme": "Build real-world automation skills",
+    "hours_per_day": 2,
+    "baseline_resources": [
+      "https://docs.python.org/3/tutorial/",
+      "https://realpython.com/",
+      "https://www.youtube.com/@Coreyms"
+    ],
+    "coaching_tips": [
+      "Keep every code sample runnable in a local REPL.",
+      "Introduce one new library or concept per week.",
+      "Reserve the final day for project reflection."
+    ]
+  },
+  "javascript": {
+    "theme": "Create interactive web experiences",
+    "hours_per_day": 1.5,
+    "baseline_resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/",
+      "https://www.freecodecamp.org/news/tag/javascript/"
+    ],
+    "coaching_tips": [
+      "Focus on DOM and async patterns early.",
+      "Alternate between coding exercises and UI teardown sessions.",
+      "Each week should end with a micro-project (e.g., widget, mini app)."
+    ]
+  },
+  "data science": {
+    "theme": "Analyze and communicate with data",
+    "hours_per_day": 2,
+    "baseline_resources": [
+      "https://pandas.pydata.org/docs/",
+      "https://seaborn.pydata.org/tutorial.html",
+      "https://scikit-learn.org/stable/"
+    ],
+    "coaching_tips": [
+      "Ensure datasets grow in size and complexity over time.",
+      "Highlight storytelling with charts at least twice a week.",
+      "Dedicate the weekend to evaluating model performance."
+    ]
+  }
+}
+

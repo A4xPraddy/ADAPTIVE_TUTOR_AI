@@ -1,0 +1,22 @@
+fastapi
+uvicorn[standard]
+
+python-dotenv
+requests
+
+pydantic
+pydantic-settings
+
+crewai
+crewai-tools
+
+google-generativeai
+google-adk
+
+langchain
+langgraph
+
+beautifulsoup4
+
+# MCP Tools
+serpapi

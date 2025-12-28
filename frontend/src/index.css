@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/* 1. Force the Dark Base */
+html, body, #root {
+  background-color: #0f172a !important;
+  color: #f8fafc !important; /* Off-white text */
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* 2. Kill standard white inputs/dropdowns */
+input, select, textarea {
+  background-color: #1e293b !important; /* Darker slate */
+  color: white !important;
+  border: 1px solid #334155 !important;
+}
+
+/* 3. Modern Scrollbar for the whole site */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 10px;
+}
