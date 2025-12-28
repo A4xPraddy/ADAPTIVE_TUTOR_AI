@@ -137,4 +137,5 @@ ADAPTIVE-TUTOR-AI/
 
 ---
 
-**Developed with ❤️ by Prasad | AI Engineer Portfolio Project**
+**Developed ❤️ by Prasad | Portfolio Project**
+
